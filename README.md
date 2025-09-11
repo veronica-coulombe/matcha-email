@@ -6,10 +6,10 @@ A clean and fully responsive HTML & CSS template designed for a product promotio
 
 ## ✨ Features
 
-- **Fully Responsive**: Looks great on desktops, tablets, and mobile devices.  
-- **Single Page Layout**: All information is presented clearly on a single page.  
-- **Clean & Modern Design**: Uses modern fonts and a clear visual hierarchy to engage the reader.  
-- **Easy to Customize**: Built with simple HTML and CSS (though no customization is allowed per license — see below).  
+- **Fully Responsive**: Great on desktops, tablets, and mobile devices.  
+- **Single Page Layout**: All information is presented plainly on a single page.  
+- **Clean & Modern Design**: Uses modern fonts and a comprehensible hierarchy to engage the reader.  
+- **Easy to Customize**: Built with simple HTML and CSS (though no customization is allowed per license — listed below).  
 
 ---
 
@@ -17,7 +17,7 @@ A clean and fully responsive HTML & CSS template designed for a product promotio
 
 This is a static webpage. If you're interested in how it works for **educational or inspection purposes only**:
 
-> ⚠️ **Do not use, modify, or redistribute this code.** It is not licensed for any use beyond personal viewing.
+> ⚠️ **Do not use, modify, or redistribute this code.** It is not licensed for any use beyond personal inspection.
 
 ### To inspect locally:
 
