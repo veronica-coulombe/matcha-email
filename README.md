@@ -50,7 +50,7 @@ You can easily adapt this template for your own use:
   - **Colors & Fonts:** All styles are located within the `<style>` tags in the `<head>` of the `index.html` file. You can change colors, font sizes, and spacing by modifying the CSS rules. For example, to change the main background color, modify the `body` selector:
     ```css
     body {
-        background-color: #new-color-code;
+        background-color: rgb(r, g, b);
     }
     ```
 
