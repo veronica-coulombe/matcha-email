@@ -45,18 +45,18 @@ This project is built using fundamental web technologies, with no external frame
 
 -----
 
-## 🎨 Customization
+## 🛠 Code Structure (For Educational Reference Only)
 
-You can easily adapt this template for your own use:
+This project’s structure is simple and based entirely in HTML and inline CSS. If you're inspecting the code to understand how it works:
 
-  - **Text:** Edit the text content directly in the `index.html` file within the `<h1>`, `<p>`, and `<h2>` tags.
-  - **Images:** Replace the image URLs in the `<img>` tags with your own. The key images are the logo, the main banner, and the two product images in the two-column section.
-  - **Colors & Fonts:** All styles are located within the `<style>` tags in the `<head>` of the `index.html` file. You can change colors, font sizes, and spacing by modifying the CSS rules. For example, to change the main background color, modify the `body` selector:
-    ```css
-    body {
-        background-color: rgb(r, g, b);
-    }
-    ```
+Text is located in <h1>, <p>, and <h2> tags within index.html.
+
+Images are embedded using standard <img> tags — e.g., the logo and banners.
+
+Styles are defined within <style> tags in the <head>. These include colors, fonts, and layout.
+
+📌 Please note:
+This project is not licensed for customization, reuse, or distribution. This section is provided for learning and reference only.
 
 -----
 
