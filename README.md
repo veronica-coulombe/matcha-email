@@ -13,21 +13,25 @@ A clean and fully responsive HTML & CSS template designed for a product promotio
 
 -----
 
-## 💻 How to Run
+## 🔍 How to Inspect
 
-This is a static webpage. No special setup is required.
+This is a static webpage. If you're interested in how it works for educational or inspection purposes:
 
-1.  Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/your-username/your-repository-name.git
-    ```
-2.  Navigate into the project directory:
-    ```bash
-    cd your-repository-name
-    ```
-3.  Open the `index.html` file directly in your web browser (e.g., Chrome, Firefox, Safari).
+Do not use, modify, or redistribute this code. It is not licensed for any use beyond viewing.
 
-That's it\! You should see the promotional page.
+Clone the repository only if you're reviewing the code for non-commercial, non-distributive, personal inspection:
+
+git clone https://github.com/your-username/your-repository-name.git
+cd your-repository-name
+
+
+Open the index.html file directly in your browser (e.g., Chrome, Firefox):
+
+Double-click it
+
+Or open it manually via your browser’s file menu
+
+🛑 Please do not use this project in your own work or host it publicly. No license is granted for distribution, reuse, or derivative works.
 
 -----
 
@@ -56,15 +60,18 @@ You can easily adapt this template for your own use:
 
 -----
 
-## 🤝 Contributing
+## 💬 Contributing
 
-Contributions are welcome\! If you have ideas for improvements or find any issues, feel free to open an issue or submit a pull request.
+This project is intended for personal use only and is not licensed for distribution, modification, or derivative works.
 
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
+As such:
+
+❌ Forks, pull requests, and direct code contributions are not permitted.
+
+✅ However, if you notice a bug, have a question, or would like to suggest an idea, you're welcome to open an issue
+ for discussion.
+
+Thank you for respecting the boundaries of this project.
 
 -----
 
